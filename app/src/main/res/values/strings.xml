@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DreamCatcher</string>
+    <string name="dream_header">Dream</string>
+    <string name="entries_header">Entries</string>
+</resources>
