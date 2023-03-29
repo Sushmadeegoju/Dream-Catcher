@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DreamCatcher</string>
+    <string name="dream_header">Dream</string>
+    <string name="entries_header">Entries</string>
+    <string name="dream_title_hint">Dream Title</string>
+    <string name="fulfilled_label">Fulfilled</string>
+    <string name="deferred_label">Deferred</string>
+    <string name="reflection_hint">Enter reflection text</string>
+    <string name="reflection_dialog_title">Add Reflection</string>
+    <string name="reflection_dialog_positive">Add</string>
+    <string name="reflection_dialog_negative">Cancel</string>
+    <string name="add_reflection_button">Add Reflection</string>
+</resources>
